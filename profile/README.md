@@ -1,67 +1,87 @@
-# Ai West Africa
+ <img width="1920" height="1080" alt="Muhammed-Dibbasey-Mandinka-Dictionary" src="https://github.com/user-attachments/assets/fc7d8cc9-4c51-4562-96fc-86400f26b615" />
 
-Ai West Africa (AiWA) is a multidisciplinary initiative using ethical AI to preserve and promote West African languages, culture, and creative expression. From speech-to-text tools to cultural tourism programs, AiWA blends linguistics, art, and automation to build economic opportunity across the region.
-AiWA builds ethical AI tools to preserve West African languages, stories, and culture—empowering communities through linguistics, art, and automation.
+Ai West Africa (AiWA)
+====================
 
-![aiwa-oral-history](https://github.com/user-attachments/assets/0d17f70a-2366-460d-b541-b929505fc988)
+Ai West Africa (AiWA) is a Gambian-rooted educational and language initiative supporting literacy, publishing, storytelling, and the preservation of West African languages and cultural expression.
 
-# Ai West Africa (AiWA)
+Working across schools, communities, and creative programmes, AiWA helps young people develop reading, writing, oral storytelling, and publishing skills while celebrating local languages and traditions.
 
-**From San Diego, California to Busumbala, The Gambia**, AiWA builds ethical AI tools to preserve West African languages, oral traditions, and cultural identity.  
+AiWA combines educational practice, community collaboration, and responsible technology to support culturally grounded learning and creative expression in The Gambia and across West Africa.
 
-We focus on linguistic equity, economic empowerment, and the responsible use of artificial intelligence in underserved regions.
+* * * * *
 
----
+What We Do
+----------
 
-## 🧠 What We Do
+AiWA develops and supports programmes in:
 
-AiWA develops open and closed-source tools for:
+-   Literacy and creative writing
+-   Educational publishing and student authorship
+-   Oral storytelling and language preservation
+-   Community-based educational media
+-   Language documentation and multilingual learning
+-   Youth contributor development
+-   Educational technology for local learning environments
 
-- 🔤 Language documentation (Mandinka, Wolof, and others)
-- 🗣️ Speech-to-text and translation for oral histories
-- 📚 Corpus creation and interlinear glossed text datasets
-- 🎙️ Audio recording, transcription, and ethical data governance
-- 🌍 Educational tools for schools and communities
+Our work includes school partnerships, workshops, student publishing initiatives, oral history projects, educational archives, and culturally respectful language documentation.
 
-Our work is grounded in consent-based data practices, dual-language community review, and long-term local stewardship.
+* * * * *
 
----
+Our Approach
+------------
 
-## 🤝 Our Roots
+AiWA believes technology should support people, culture, and education --- not replace them.
 
-AiWA is co-developed by **MaximillianGroup** (San Diego, CA) and **Cellular Vibrations** (Busumbala, The Gambia), in partnership with linguists, educators, and community elders.
+We work through community participation, contributor consent, safeguarding practices, local partnership, and culturally respectful educational methods.
 
-Our ethical foundation includes:
-- Community ownership of data
-- Transparent training practices
-- Dual-consent and contributor rights
-- Cultural sensitivity and dialectal respect
+We do not treat communities, languages, or oral traditions as commodities or extractive datasets.
 
----
+* * * * *
 
-## 💡 Get Involved
+Educational and Cultural Focus
+------------------------------
 
-We invite collaboration in:
-- West African linguistics
-- Audio engineering and language tech
-- Curriculum design for culturally-rooted education
-- AI ethics, documentation, and voice technology
+Our programmes encourage:
 
-📫 Reach us: **aiwa@cellularvibrations.com**
+-   Reading and writing development
+-   Multilingual expression
+-   Confidence in local languages
+-   Creative collaboration
+-   Responsible participation in modern educational and publishing spaces
 
----
+Students and contributors retain ownership of their original creative work.
 
-## 📚 Useful Links
+* * * * *
 
-- 🗂️ [AiWA Language Data Standards](https://github.com/aiwestafrica/language-standards)
-- 🌐 [Website (coming soon)](https://aiwestafrica.com)
+Partnerships
+------------
 
----
+AiWA works with schools, educators, community organisations, artists, linguists, and local knowledge holders to support educational and cultural initiatives rooted in West African realities.
 
-## ✨ Closing Note
+* * * * *
 
-We believe that AI should protect and amplify—not erase—local knowledge. Every word, story, and voice in our corpus is a step toward a future where technology honors tradition.
+Areas of Collaboration
+----------------------
 
-© 2023–2025 **Ai West Africa (AiWA)**, a project of **MaximillianGroup** and **Cellular Vibrations**.
+We welcome collaboration in:
 
+-   Literacy and education
+-   Language preservation
+-   Culturally grounded curriculum development
+-   Educational publishing
+-   Oral storytelling
+-   Safeguarding and youth development
+-   Responsible educational technology
 
+* * * * *
+
+Contact
+-------
+
+[support@aiwestafrica.com](mailto:support@aiwestafrica.com)
+[AIWestAfrica.com](https://aiwestafrica.com)
+
+* * * * *
+
+*We believe language, storytelling, and local knowledge are living parts of community identity. Our goal is to help young people read, write, create, publish, and preserve their voices in ways that strengthen both education and cultural continuity.*
