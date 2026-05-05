@@ -79,7 +79,7 @@ We welcome collaboration in:
 Contact
 -------
 
-[support@aiwestafrica.com](mailto:support@aiwestafrica.com)
+[support@aiwestafrica.com](mailto:support@aiwestafrica.com) \
 [AIWestAfrica.com](https://aiwestafrica.com)
 
 * * * * *
